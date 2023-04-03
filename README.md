@@ -1,5 +1,5 @@
 
-# Calculador de salarios V1.0.
+# Calculador de salarios V1.0. - Lucio Perez Sanders
 
 ## ¿Cómo funciona?
 Comenzamos definiendo una constante que sería la información pública que corresponde al salario anual de Messi (41.000.000 USD). 
@@ -19,7 +19,9 @@ https://sirkimeramon.github.io/calculadorDeSalarios/
 ## Cosas que aprendimos.
 
 - ParseInt() puede utilizarse para redondear números.
+
 - Podemos utilizar isNaN para verificar si los datos ingresados son o no un número.
+
 - Podemos reutilizar las funciones como tiempoParaGanarlo con otras figuras públicas y ahorrar código.
 
 ## Próximos pasos.
