@@ -105,6 +105,8 @@ pedirSalarioMensual() {
 
 -La clase Usuario tiene dos propiedades: salarioMensual y salarioAnual, ambas inicializadas en cero en el constructor.
 
+- El resultado del salario mensual ingresado por el usuario * 12 es guardado en el objeto usuario.
+
 -El método pedirSalarioMensual utiliza un bucle while para solicitar al usuario que ingrese su salario mensual en dólares hasta que ingrese un número válido.
 
 -El método calcularSalarioAnual multiplica el salario mensual por 12 para obtener el salario anual.
