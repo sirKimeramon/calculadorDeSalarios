@@ -143,3 +143,4 @@ Primero define las constantes SEGUNDOS_EN_HORA, SEGUNDOS_EN_DIA y SEGUNDOS_EN_AN
 
 
 
+Disclaimer: Por motivos de tiempos este readMe puede no reflejar todos los cambios realizados en la última actualizacón. Será actualizado en los próximos días.
