@@ -122,7 +122,6 @@ Primero define las constantes SEGUNDOS_EN_HORA, SEGUNDOS_EN_DIA y SEGUNDOS_EN_AN
 
 - Podemos utilizar isNaN para verificar si los datos ingresados son o no un número.
 
-- Podemos reutilizar las funciones como tiempoParaGanarlo con otras figuras públicas y ahorrar código.
 
 ## Próximos pasos.
 
@@ -138,7 +137,7 @@ Primero define las constantes SEGUNDOS_EN_HORA, SEGUNDOS_EN_DIA y SEGUNDOS_EN_AN
 
 - Cambiar método de salida alert().
 
--Agregar soporte para case sensitive en el nombre de las figuras públicas
+- Agregar soporte para case sensitive en el nombre de las figuras públicas
 
 
 
