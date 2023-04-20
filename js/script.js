@@ -72,7 +72,7 @@ function tiempoParaGanarlo() {
   } else {
     //! Si el usuario no selecciona una figura válida,se muestra una alerta informando que la opción no es válida y se llama a la función nuevamente para que el usuario seleccione una opción válida.
     alert(
-      `La figura pública seleccionada no es válida. Por favor, selecciona una de las siguientes opciones: ${figurasPublicas.join(
+      `La figura pública seleccionada no es válida. Por favor selecciona una de las siguientes opciones: ${figurasPublicas.join(
         ", "
       )}`
     );
